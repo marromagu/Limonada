@@ -52,7 +52,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//hola
 @Composable
 @Preview(showBackground = true)
 fun PreviewMode() {
